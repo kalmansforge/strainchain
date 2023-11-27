@@ -1,4 +1,5 @@
 # StrainChain
+![StrainChain Logo](strainchain-logo-transparent.png)
 
 ## Introduction
 

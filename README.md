@@ -1,6 +1,8 @@
 # StrainChain
 ![StrainChain Logo](strainchain-logo-transparent.png)
 
+Project Launch: https://app.foundance.org/projects/10322
+
 # Video Intro:
 [![Watch the video](https://i9.ytimg.com/vi_webp/GjeTR77qquw/mq2.webp?sqp=CMjikqsG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEkgWyhlMA8=&rs=AOn4CLBE6g6WC4Vmnhd0To78ZvQP3-5t0Q)](https://www.loom.com/embed/12ce7f1287684b6f889ee6fbe77cc4e0?sid=004631d7-5f16-40d6-a1b4-8221da8de920)
 
